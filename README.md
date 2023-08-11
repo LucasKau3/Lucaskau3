@@ -44,7 +44,7 @@ src="https://raw.githubusercontent.com/gist/LucasKau3/74f08641c23dc666901c2bb548
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Lucaskau3-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 
