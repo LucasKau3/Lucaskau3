@@ -1,5 +1,5 @@
 <img align="right" height="590em"
-src="https://raw.githubusercontent.com/gist/LucasKau3/74f08641c23dc666901c2bb548dbc799/raw/8a0e12a24b2a3f3bf32f46a65b70f9749f42764e/githubcard.svg"/>
+src="https://raw.githubusercontent.com/gist/LucasKau3/74f08641c23dc666901c2bb548dbc799/raw/7c5dd5ef2d6249b11276f3f5b29c4045b369a717/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Kauê!</h1>
 
