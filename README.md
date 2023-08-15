@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/LucasKau3/74f08641c23dc666901c2bb548
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Future front-end developer.
+- 🔥 Future Front-End developer.
 
 - 🔭 I’m studing Information systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
 
