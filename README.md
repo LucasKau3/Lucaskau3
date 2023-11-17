@@ -11,7 +11,6 @@ src="https://raw.githubusercontent.com/gist/LucasKau3/74f08641c23dc666901c2bb548
 
 - 💬 Technologies for work: **JavaScript, HTML, CSS, SQL, React.JS**.
 
-
 <br><br>
 
 ## 🛠 &nbsp;Technologies I study
