@@ -4,16 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Future Front-End developer.
+- 🔥 Future IT manager with emphasis on cloud computing and cybersecurity.
 
 - 🔭 I’m studing Information systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
 
-- 💬 Technologies for work: **JavaScript, HTML, CSS, SQL, React.JS**.
+- 💬 Technologies for work: **AWS, Python**.
 
 <br><br>
 
 ## 🛠 &nbsp;Technologies I study
-
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
