@@ -1,6 +1,7 @@
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">I'm Lucas Kauê!</h1>
+<h1 align="left">Hi <img src="![image](https://github.com/LucasKau3/Lucaskau3/assets/89214974/16ce41be-67a3-41df-b0cf-9cdea709e00c)
+" height="30px">I'm Lucas Kauê!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" /> </p>
 
