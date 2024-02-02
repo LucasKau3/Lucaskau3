@@ -39,5 +39,8 @@
 <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Lucaskau3-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<br>
+  <img align="center" src="https://img.shields.io/badge/-estudoslucaskaue@gmail.com-05122A?style=flat&logo=gmail" alt="linkedin"/>
+
 
 
