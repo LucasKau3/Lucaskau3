@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi <img src="">I'm Lucas Kauê!</h1>
+<h1 align="left">Hi I'm Lucas Kauê!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" /> </p>
 
