@@ -21,7 +21,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=sqlite)&nbsp;
-![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=sqlite)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
