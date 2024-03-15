@@ -8,8 +8,6 @@
 
 - 🔭 I’m studing Information systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
 
-- 💬 Technologies for work: **AWS**.
-
 <br><br>
 
 ## 🛠 &nbsp;Technologies I study
