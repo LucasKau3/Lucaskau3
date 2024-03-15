@@ -29,7 +29,7 @@
 
 <br><br>
 
-## Contact
+## My contacts
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
