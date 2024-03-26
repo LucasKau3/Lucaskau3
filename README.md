@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Future IT manager with emphasis on cloud computing and cybersecurity.
+- 🔥 Future IT manager with emphasis on cloud security.
 
 - 🔭 I’m studing Information systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
 
