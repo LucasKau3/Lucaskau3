@@ -10,7 +10,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;My technologies:
+## 🛠 &nbsp;My Technologies:
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=mysql)&nbsp;
