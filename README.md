@@ -6,7 +6,7 @@
 
 - 🔥 Future IT manager with emphasis on cloud security.
 
-- 🔭 I’m studing Information systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
+- 🔭 I’m studing Information Systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
 
 <br><br>
 
