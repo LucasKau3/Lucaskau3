@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Future IT manager with emphasis on cloud security.
+- 🔥 Software Engineering Intern at Itaú Unibanco.
 
 - 🔭 I’m studing Information Systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
 
@@ -15,7 +15,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=.python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=git)&nbsp;
 
