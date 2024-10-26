@@ -12,11 +12,10 @@
 
 ## 🛠 &nbsp;My Technologies:
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=git)&nbsp;
 
 
 
