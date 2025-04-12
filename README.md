@@ -33,11 +33,12 @@
 ## My contacts
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Lucas Kauê-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<br>
-  <img align="center" src="https://img.shields.io/badge/-estudoslucaskaue@gmail.com-05122A?style=flat&logo=gmail" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+  <br>
+
+<a href="mailto:estudoslucaskaue@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-estudoslucaskaue@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+
 
 
 
