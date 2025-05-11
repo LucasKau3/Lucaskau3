@@ -1,4 +1,4 @@
-<h1 align="left" style="font-family: 'Courier New', monospace;">Hi there! 👋🏾 I'm Lucas Kauê</h1>
+<h1 align="left" style="font-family: 'Courier New', monospace;">Hi there! 👋🏾 I'm Lucas Kauê Pedralina Lobo.</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-Csharp-239120?style=flat&logo=csharp&logoColor=white)
@@ -20,17 +20,19 @@
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 Tools I Use.
 
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![JetBrains Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=jetbrains&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats.
 
 <p align="left">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=lucaskau3&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="lucaskau3 stats"/>
@@ -38,7 +40,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning.
 
 - 🧠 Reinforcing **.NET** and **C#** fundamentals.  
 - ☁️ Studying **AWS** and preparing for the **Cloud Practitioner certification**.  
@@ -46,15 +48,18 @@
 
 ---
 
-## 👨🏾‍💻 About Me
+## 👨🏾‍💻 About Me.
 
-- Amo música, e tocar instrumentos.  
-- Amo futebol, tanto de assistir, quanto de jogar.  
-- Aprecio um bom livro, e estar com a família e amigos.  
+- I love music and playing instruments.
+
+- I'm passionate about football, both watching and playing.
+
+- I enjoy a good book and spending time with family and friends.
+
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
