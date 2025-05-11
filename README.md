@@ -1,44 +1,66 @@
-
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=35 /> I'm Lucas Kauê!</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" /> </p>
-
-- 🔥 Software Engineering Intern at Itaú Unibanco.
-
-- 🔭 I’m studing Information Systems in UNICAMP - FT [UNICAMP](https://www.unicamp.br/unicamp/universidade).
-
-<br><br>
-
-## 🛠 &nbsp;My Technologies:
-
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
+<h1 align="left" style="font-family: 'Courier New', monospace;">Hi there! 👋🏾 I'm Lucas Kauê</h1>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucaskau3&show_icons=true&theme=vision-friendly-dark" alt="Lucaskau3 stats"/>
+  <img src="https://komarev.com/ghpvc/?username=lucaskau3&color=yellow" alt="Profile views" />
 </p>
 
+🎓 I'm currently studying **Information Systems** at [UNICAMP](https://www.unicamp.br/unicamp/universidade).  
+💼 Software Engineering Intern at [Itaú Unibanco](https://www.itau.com.br/).  
+🚀 I intend to become a Software Engineering Manager, focusing on **.NET**, **AWS**, and **DevOps**.  
 
-<br><br>
+---
 
-## My contacts
+## 🛠️ Tech Stack
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  
-  <br>
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-Csharp-239120?style=flat&logo=csharp&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-<a href="mailto:estudoslucaskaue@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-estudoslucaskaue@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+---
 
+## 🧰 Tools I Use
 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=jetbrains&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=lucaskau3&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="lucaskau3 stats"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Reinforcing **.NET** and **C#** fundamentals.  
+- ☁️ Studying **AWS** and preparing for the **Cloud Practitioner certification**.  
+- 📊 Exploring **Datadog** for monitoring and observability.
+
+---
+
+## 👨🏾‍💻 About Me
+
+- Amo música, e tocar instrumentos.  
+- Amo futebol, tanto de assistir, quanto de jogar.  
+- Aprecio um bom livro, e estar com a família e amigos.  
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:estudoslucaskaue@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
